@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Speaking%20Potato&fontColor=ffffff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Speaking%20Potato&fontSize=90)
 
 ![말하는감자](https://user-images.githubusercontent.com/57933510/187471037-5fc85195-de2d-4c56-8243-61ad703de842.png)
 
