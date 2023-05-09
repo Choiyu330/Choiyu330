@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choiyu330&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </br>
 </div>
-<div align=center><h1>📚 STACKS <a href="[https://hits.seeyoufarm.com](https://github.com/Choiyu330/hit-counter)"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiyu330%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></h1></div>
+<div align=center><h1>📚 STACKS</h1></div>
 
 
 <div align="center">
